@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="141" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="141" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+      <class name="SecondTest">
+        <test-method status="PASS" signature="f4Test()[pri:0, instance:SecondTest@7d70d1b1]" name="f4Test" duration-ms="11" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f4Test -->
+        <test-method status="PASS" signature="f5Test()[pri:0, instance:SecondTest@7d70d1b1]" name="f5Test" duration-ms="5" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f5Test -->
+        <test-method status="PASS" signature="f6Test()[pri:0, instance:SecondTest@7d70d1b1]" name="f6Test" duration-ms="3" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f6Test -->
+        <test-method status="PASS" signature="f7Test()[pri:0, instance:SecondTest@7d70d1b1]" name="f7Test" duration-ms="4" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f7Test -->
+      </class> <!-- SecondTest -->
+      <class name="NewTest">
+        <test-method status="PASS" signature="f1Test()[pri:0, instance:NewTest@2a742aa2]" name="f1Test" duration-ms="3" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1Test -->
+        <test-method status="PASS" signature="f2Test()[pri:0, instance:NewTest@2a742aa2]" name="f2Test" duration-ms="14" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2Test -->
+        <test-method status="PASS" signature="f3Test()[pri:0, instance:NewTest@2a742aa2]" name="f3Test" duration-ms="2" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f3Test -->
+        <test-method status="PASS" signature="fTest()[pri:0, instance:NewTest@2a742aa2]" name="fTest" duration-ms="3" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fTest -->
+      </class> <!-- NewTest -->
+      <class name="ThirdTest">
+        <test-method status="PASS" signature="f10Test()[pri:0, instance:ThirdTest@3cb1ffe6]" name="f10Test" duration-ms="5" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f10Test -->
+        <test-method status="PASS" signature="f8Test()[pri:0, instance:ThirdTest@3cb1ffe6]" name="f8Test" duration-ms="3" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f8Test -->
+        <test-method status="PASS" signature="f9Test()[pri:0, instance:ThirdTest@3cb1ffe6]" name="f9Test" duration-ms="3" started-at="2020-06-30T20:49:31 IST" finished-at="2020-06-30T20:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f9Test -->
+      </class> <!-- ThirdTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
